@@ -43,7 +43,7 @@ class _HomeState extends State<Home> {
                     ),
                     backgroundColor: MaterialStateProperty.all(Colors.amber),
                     foregroundColor: MaterialStateProperty.all(Colors.white)),
-                child: const Text('Atualizar'),
+                child: const Text('Atualizar Preço'),
               ),
             ),
           ],
